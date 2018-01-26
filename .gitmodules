@@ -1,0 +1,4 @@
+[submodule "YCSB"]
+	path = YCSB
+	url = https://github.com/ChrisG55/YCSB.git
+	branch = streaming
