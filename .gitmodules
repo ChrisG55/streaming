@@ -6,3 +6,6 @@
 	path = jedis
 	url = https://github.com/ChrisG55/jedis.git
 	branch = streaming
+[submodule "RediStreaming"]
+	path = RediStreaming
+	url = https://github.com/ChrisG55/RediStreaming.git
